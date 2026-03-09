@@ -63,7 +63,6 @@ Test your webpage in a browser.
 ## PROGRAM:
 ```
 <head>
-    <meta charset="UTF-8">
     <title>Product Card</title>
     <style>
         body {
